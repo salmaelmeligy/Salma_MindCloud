@@ -10,7 +10,7 @@ Mechanical Engineering
 ### My favorite team
 Mechanical
 # Cloning my repo
-- You can clone my repo by the following command:
+- You can clone my repo by the following command: <br>  
 git clone https://github.com/salmaelmeligy/Salma_MindCloud.git
 # Follow me on  GitHub
 - You can find my GitHub account 
@@ -19,3 +19,5 @@ git clone https://github.com/salmaelmeligy/Salma_MindCloud.git
  ### Commits
 
  ### Pull requests
+ ![Screenshot (71)](https://github.com/salmaelmeligy/Salma_MindCloud/assets/148384651/ee59427d-7025-4366-83a5-86ff14ffdaab)
+
