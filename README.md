@@ -1,6 +1,6 @@
 # My personal data
 ### My name
-Salma
+Salma Elmeligy
 ### My age
 21
 ### My department
