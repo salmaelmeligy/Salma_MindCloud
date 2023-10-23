@@ -17,7 +17,7 @@ git clone https://github.com/salmaelmeligy/Salma_MindCloud.git
   - [here](https://github.com/salmaelmeligy)
  # The required screenshots
  ### Commits
-
+![Screenshot (72)](https://github.com/salmaelmeligy/Salma_MindCloud/assets/148384651/69777f29-516b-463e-971c-7a834d46f43d)
  ### Pull requests
  ![Screenshot (71)](https://github.com/salmaelmeligy/Salma_MindCloud/assets/148384651/ee59427d-7025-4366-83a5-86ff14ffdaab)
 
