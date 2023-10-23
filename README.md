@@ -1,10 +1,10 @@
 # My personal data
 ### My name
-Salma 
+Salma Elmeligy
 ### My age
 21
 ### My department
-Mechanical Engineering 
+Mechanical Engineering
 ### My graduation year
 2026
 ### My favorite team
